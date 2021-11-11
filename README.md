@@ -7,7 +7,8 @@
 # 사용 언어
  javaFx + SceneBuiler + Oracle
 
-# 실행화
+# 실행화면
+
 
 
 

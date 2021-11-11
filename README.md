@@ -8,8 +8,14 @@
  javaFx + SceneBuiler + Oracle
 
 # 실행화면
+![image](https://user-images.githubusercontent.com/93521202/141292874-4301e2b7-cd58-499c-83e3-b5b311c2d870.png)
+로그인 실패
 
+![image](https://user-images.githubusercontent.com/93521202/141292916-86542b1a-f544-4920-bcf7-b0c7a967e0a1.png)
+회원정보 입력
 
+![image](https://user-images.githubusercontent.com/93521202/141292966-df280986-685b-4c6b-9dd5-1990bff10fd9.png)
+로그인 정보가 맞을시
 
 
 
